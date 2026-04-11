@@ -6,8 +6,6 @@
 
   ### 🌟 Beautify & Minify Your Code with One Click
 
-  [![VS Code Marketplace](https://img.shields.io/visual-studio-marketplace/v/b1c836b5-b2e9-67df-b783-53ff04f83ff0.codepolish?style=for-the-badge&logo=visualstudiocode&color=007ACC)](https://marketplace.visualstudio.com/items?itemName=b1c836b5-b2e9-67df-b783-53ff04f83ff0.codepolish)
-  [![Installs](https://img.shields.io/visual-studio-marketplace/i/b1c836b5-b2e9-67df-b783-53ff04f83ff0.codepolish?style=for-the-badge&logo=visualstudiocode)](https://marketplace.visualstudio.com/items?itemName=b1c836b5-b2e9-67df-b783-53ff04f83ff0.codepolish)
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
   [![GitHub Stars](https://img.shields.io/github/stars/bharat-poojari/codepolish?style=for-the-badge&logo=github)](https://github.com/bharat-poojari/codepolish/stargazers)
   [![GitHub Forks](https://img.shields.io/github/forks/bharat-poojari/codepolish?style=for-the-badge&logo=github)](https://github.com/bharat-poojari/codepolish/network)
