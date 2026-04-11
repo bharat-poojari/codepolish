@@ -22,6 +22,11 @@
   </p>
 </div>
 
+## Screenshots
+
+<div style="white-space: nowrap; overflow-x: auto; padding: 10px 0;">
+  <img src="https://raw.githubusercontent.com/bharat-poojari/codepolish/main/screenshots/Screenshot.jpg" height="250" style="display:inline-block; margin-right:10px;">
+  <img src="https://raw.githubusercontent.com/bharat-poojari/codepolish/main/screenshots/Screenshot1.jpg" height="250" style="display:inline-block; margin-right:10px;">
 
 ## 📋 Table of Contents
 
@@ -490,4 +495,3 @@ If you find CodePolish helpful, please consider:
 *Now supporting HTML, CSS, JavaScript, JSON, and JSONL!*
 
 </div>
-```
