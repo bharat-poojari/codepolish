@@ -1,4 +1,3 @@
-```markdown
 # 🧼 CodePolish - VS Code Extension
 
 <div align="center">
