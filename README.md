@@ -303,8 +303,8 @@ vsce publish
       <td><strong>After Beautify</strong></td>
     </tr>
     <tr>
-      <td><img src="https://via.placeholder.com/400x300/1e1e1e/ffffff?text=Minified+Code" alt="Before Beautify"/></td>
-      <td><img src="https://via.placeholder.com/400x300/1e1e1e/ffffff?text=Beautified+Code" alt="After Beautify"/></td>
+      <td><img src="https://raw.githubusercontent.com/bharat-poojari/codepolish/main/screenshots//before-beautify.png" alt="Before Beautify"/></td>
+      <td><img src="https://raw.githubusercontent.com/bharat-poojari/codepolish/main/screenshots//after-beautify.png" alt="After Beautify"/></td>
     </tr>
   </table>
 </div>
@@ -318,19 +318,11 @@ vsce publish
       <td><strong>After Minify</strong></td>
     </tr>
     <tr>
-      <td><img src="https://via.placeholder.com/400x300/1e1e1e/ffffff?text=Formatted+Code" alt="Before Minify"/></td>
-      <td><img src="https://via.placeholder.com/400x300/1e1e1e/ffffff?text=Minified+Code" alt="After Minify"/></td>
+      <td><img src="https://raw.githubusercontent.com/bharat-poojari/codepolish/main/screenshots//before-minify.png" alt="Before Minify"/></td>
+      <td><img src="https://raw.githubusercontent.com/bharat-poojari/codepolish/main/screenshots//after-minify.png" alt="After Minify"/></td>
     </tr>
   </table>
 </div>
-
-### 🎯 **Context Menu Integration**
-
-<div align="center">
-  <img src="https://via.placeholder.com/300x200/1e1e1e/ffffff?text=Context+Menu" alt="Context Menu"/>
-</div>
-
-> **Note**: Actual screenshots coming soon! Want to contribute? [Submit a PR](https://github.com/bharat-poojari/codepolish/pulls)
 
 
 ## 🗺️ Roadmap
